@@ -35,6 +35,7 @@
     - [ ] Theme images and images captions with CSS
     - [ ] Change the colour scheme to something aesthetically pleasing
     - [ ] Apply 1 CSS file to 3 gutenberg documents.
+    - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
     - [ ] document in your README what modifications you had to make
       to the project gutenberg HTML files.
     - [ ] Take 3 screenshots of firefox running all of your pages that
@@ -72,10 +73,12 @@
       offer, important points about you
     - [ ] 1 Ugly CSS theme
     - [ ] 1 good CSS theme
+    - [ ] Ugly theme has to be noticeabley different.
     - [ ] 2 HTML files, each with the same content but different CSS
     - [ ] your photo (try to keep it professional)
     - [ ] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
+    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
     
 
 ** Restrictions
@@ -104,8 +107,9 @@
      - Line 3: Your collaborator's CCID
 
 ** Marking
-   - 3 for the appropriate skinning the gutenberg stories with new CSS 
-   - 3 marks for the 2 versions of your page
+   - Marks are given only when requirements are met.
+   - 3 for the appropriate skinning the gutenberg stories with new CSS. Including HTML files.
+   - 3 marks for the 2 versions of your page. Including HTML files.
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
 
