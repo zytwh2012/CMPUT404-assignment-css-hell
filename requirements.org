@@ -85,8 +85,8 @@
     - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
 ** Restrictions
-   - [ ] Use Python 2.7
-   - [ ] Must run in the undergrad lab (Ubuntu 12.04)
+   - [ ] You may use Python
+   - [ ] Must run in your VM (Firefox and Chromium)
    - [ ] License your content properly (use a Creative Commons License
      like CC-BY-ND or CC-BY-SA)
      - Put your name on it!
@@ -116,4 +116,4 @@
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
 
-   Marks will be deducted for lack of screenshots and lack of README
+   Marks will be deducted for lack of screenshots and lack of README or wrong file locations. 
