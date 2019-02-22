@@ -1,0 +1,28 @@
+body { margin:10%;  background-image: url("backgroud.png"); text-align:left}
+P { text-indent: 2em; margin: .15em}
+H1,H2,H3,H4,H5,H6 { text-align: center; margin:1%;}
+hr  { width: 40%; text-align: center;}
+img {display: block;margin-left: auto;margin-right: auto;width:auto;}
+.foot { margin-left: 20%; margin-right: 20%; text-align: center; text-indent: -3em; font-size: 70%; }
+blockquote {font-size: 95%; font-style: italic; margin-left: 10%; margin-right: 10%;}
+pre        { font-style: italic; font-size: 95%; margin-left: 10%;}
+.mynote    {background-color: rgb(252, 252, 252); color: rgb(10, 10, 10); padding: .5em; margin-left: 10%; margin-right: 10%; font-family: sans-serif; font-size: 95%;}
+.toc       { margin-left: 10%;}
+.toc2      { margin-left: 20%;}
+div.fig    { display:block; margin:auto; text-align:center; }
+div.middle { margin-left: 20%; margin-right: 20%; text-align: center; }
+.figleft   {float: left; margin-right: 5%;}
+.figright  {float: right; margin-left: 5%;}
+.pagenum   {display:inline; font-size: 70%; font-style:sans-serif; position: absolute; right: 1%;text-align: right;}         
+
+
+
+
+
+
+
+
+
+
+
+
