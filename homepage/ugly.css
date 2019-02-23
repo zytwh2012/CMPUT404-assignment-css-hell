@@ -1,0 +1,26 @@
+body {background-image: url("./images/backgroud.gif"); text-align:left}
+H1{ text-align: center; margin:1%;color:blueviolet;}
+H2{ text-align: center; margin:1%;color:yellow;}
+H3{ text-align: center; margin:1%;color:pink;}
+p{ text-align: left; margin:1%;color:dodgerblue;}
+img {display: block;margin-left: auto;margin-right: auto;width:20%;}
+nav{text-align: center; margin:1%;}
+nav a{color: #f2f2f2;background-color: crimson;}
+.sidenav {
+    height: 100%; 
+    width: 20%;
+    position: fixed;
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+
+  .sidenav div {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color:rgb(253, 215, 0);
+    display: block;
+  }
